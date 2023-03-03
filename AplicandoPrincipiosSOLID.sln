@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCPViolacaoMethodoExtensao"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCPAderenteMetodoExtensao", "OCPAderente\OCPAderenteMetodoExtensao.csproj", "{1AD84F5E-9AF5-484F-BC94-16209BBE14EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCPPrincipioViolacao", "OCPPrincipioViolacao\OCPPrincipioViolacao.csproj", "{43E52B54-B47D-4F68-87FA-6ADA23F3E016}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{1AD84F5E-9AF5-484F-BC94-16209BBE14EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AD84F5E-9AF5-484F-BC94-16209BBE14EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AD84F5E-9AF5-484F-BC94-16209BBE14EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43E52B54-B47D-4F68-87FA-6ADA23F3E016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43E52B54-B47D-4F68-87FA-6ADA23F3E016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43E52B54-B47D-4F68-87FA-6ADA23F3E016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43E52B54-B47D-4F68-87FA-6ADA23F3E016}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
