@@ -7,9 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRPViolacao", "SRPViolacao\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRPAderente", "SRPAderente\SRPAderente.csproj", "{1EB136C3-FE6E-43BC-9ECC-CBC0D722C03C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCPViolacao", "OCPViolacao\OCPViolacao.csproj", "{C642B5F0-6B09-4EBD-90BF-A14E86DE5C95}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCPViolacaoMethodoExtensao", "OCPViolacao\OCPViolacaoMethodoExtensao.csproj", "{C642B5F0-6B09-4EBD-90BF-A14E86DE5C95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCPAderente", "OCPAderente\OCPAderente.csproj", "{1AD84F5E-9AF5-484F-BC94-16209BBE14EC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCPAderenteMetodoExtensao", "OCPAderente\OCPAderenteMetodoExtensao.csproj", "{1AD84F5E-9AF5-484F-BC94-16209BBE14EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
